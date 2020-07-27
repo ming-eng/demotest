@@ -1,0 +1,234 @@
+2020-07-25 20:19:57,037 - parse_bidding_infos_from_page  - 118  - INFO - 【bidding_jszfcg】输入关键词key获得了2个网页
+2020-07-25 20:19:57,038 - parse_bidding_infos_from_page  - 121  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页开始请求url: http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/index_1.html
+2020-07-25 20:19:57,038 - parse_bidding_infos_from_page  - 121  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页开始请求url: http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/index_1.html
+2020-07-25 20:19:57,043 - parse_bidding_infos_from_page  - 118  - INFO - 【bidding_jszfcg】输入关键词key获得了2个网页
+2020-07-25 20:19:57,045 - parse_bidding_infos_from_page  - 121  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页开始请求url: http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/index_1.html
+2020-07-25 20:19:57,045 - parse_bidding_infos_from_page  - 121  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页开始请求url: http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/index_1.html
+2020-07-25 20:19:57,339 - extract_bidding_infos_from_page  - 142  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取列表页内容
+2020-07-25 20:19:57,341 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html
+2020-07-25 20:19:57,343 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html
+2020-07-25 20:19:57,344 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html
+2020-07-25 20:19:57,344 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html
+2020-07-25 20:19:57,344 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html
+2020-07-25 20:19:57,344 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html
+2020-07-25 20:19:57,345 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html
+2020-07-25 20:19:57,345 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html
+2020-07-25 20:19:57,345 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html
+2020-07-25 20:19:57,346 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html
+2020-07-25 20:19:57,346 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html
+2020-07-25 20:19:57,346 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html
+2020-07-25 20:19:57,346 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html
+2020-07-25 20:19:57,347 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html
+2020-07-25 20:19:57,359 - extract_bidding_infos_from_page  - 142  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取列表页内容
+2020-07-25 20:19:57,361 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html
+2020-07-25 20:19:57,362 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html
+2020-07-25 20:19:57,362 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html
+2020-07-25 20:19:57,362 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html
+2020-07-25 20:19:57,363 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html
+2020-07-25 20:19:57,363 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html
+2020-07-25 20:19:57,363 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html
+2020-07-25 20:19:57,363 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html
+2020-07-25 20:19:57,364 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html
+2020-07-25 20:19:57,364 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html
+2020-07-25 20:19:57,364 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html
+2020-07-25 20:19:57,364 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html
+2020-07-25 20:19:57,365 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html
+2020-07-25 20:19:57,365 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html
+2020-07-25 20:19:57,366 - extract_bidding_infos_from_page  - 142  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取列表页内容
+2020-07-25 20:19:57,368 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html
+2020-07-25 20:19:57,369 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html
+2020-07-25 20:19:57,369 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html
+2020-07-25 20:19:57,369 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html
+2020-07-25 20:19:57,369 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html
+2020-07-25 20:19:57,370 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html
+2020-07-25 20:19:57,370 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html
+2020-07-25 20:19:57,370 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html
+2020-07-25 20:19:57,370 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html
+2020-07-25 20:19:57,371 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html
+2020-07-25 20:19:57,371 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html
+2020-07-25 20:19:57,371 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html
+2020-07-25 20:19:57,371 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html
+2020-07-25 20:19:57,372 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html
+2020-07-25 20:19:57,373 - extract_bidding_infos_from_page  - 142  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取列表页内容
+2020-07-25 20:19:57,375 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html
+2020-07-25 20:19:57,375 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html
+2020-07-25 20:19:57,375 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html
+2020-07-25 20:19:57,376 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html
+2020-07-25 20:19:57,376 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html
+2020-07-25 20:19:57,376 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html
+2020-07-25 20:19:57,376 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html
+2020-07-25 20:19:57,377 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html
+2020-07-25 20:19:57,377 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html
+2020-07-25 20:19:57,377 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html
+2020-07-25 20:19:57,377 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html
+2020-07-25 20:19:57,378 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html
+2020-07-25 20:19:57,378 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html
+2020-07-25 20:19:57,378 - extract_bidding_infos_from_page  - 172  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，请求网页详情url：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html
+2020-07-25 20:19:57,645 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html 的详情内容
+2020-07-25 20:19:57,645 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html 的详情内容开始填充item
+2020-07-25 20:19:57,645 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html 的详情内容item即将提交
+2020-07-25 20:19:57,668 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html 的详情内容
+2020-07-25 20:19:57,668 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html 的详情内容开始填充item
+2020-07-25 20:19:57,668 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html 的详情内容item即将提交
+2020-07-25 20:19:57,674 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html 的详情内容
+2020-07-25 20:19:57,674 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html 的详情内容开始填充item
+2020-07-25 20:19:57,675 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html 的详情内容item即将提交
+2020-07-25 20:19:57,676 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html 的详情内容
+2020-07-25 20:19:57,676 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html 的详情内容开始填充item
+2020-07-25 20:19:57,677 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html 的详情内容item即将提交
+2020-07-25 20:19:57,680 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html 的详情内容
+2020-07-25 20:19:57,680 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html 的详情内容开始填充item
+2020-07-25 20:19:57,680 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html 的详情内容item即将提交
+2020-07-25 20:19:57,683 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html 的详情内容
+2020-07-25 20:19:57,683 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html 的详情内容开始填充item
+2020-07-25 20:19:57,683 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html 的详情内容item即将提交
+2020-07-25 20:19:57,697 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html 的详情内容
+2020-07-25 20:19:57,697 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html 的详情内容开始填充item
+2020-07-25 20:19:57,698 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html 的详情内容item即将提交
+2020-07-25 20:19:57,724 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html 的详情内容
+2020-07-25 20:19:57,724 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html 的详情内容开始填充item
+2020-07-25 20:19:57,725 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html 的详情内容item即将提交
+2020-07-25 20:19:57,846 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html 的详情内容
+2020-07-25 20:19:57,846 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html 的详情内容开始填充item
+2020-07-25 20:19:57,847 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html 的详情内容item即将提交
+2020-07-25 20:19:57,853 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html 的详情内容
+2020-07-25 20:19:57,853 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html 的详情内容开始填充item
+2020-07-25 20:19:57,853 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html 的详情内容item即将提交
+2020-07-25 20:19:57,855 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html 的详情内容
+2020-07-25 20:19:57,855 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html 的详情内容开始填充item
+2020-07-25 20:19:57,855 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html 的详情内容item即将提交
+2020-07-25 20:19:57,858 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html 的详情内容
+2020-07-25 20:19:57,858 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html 的详情内容开始填充item
+2020-07-25 20:19:57,858 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html 的详情内容item即将提交
+2020-07-25 20:19:57,870 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html 的详情内容
+2020-07-25 20:19:57,870 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html 的详情内容开始填充item
+2020-07-25 20:19:57,871 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html 的详情内容item即将提交
+2020-07-25 20:19:57,873 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html 的详情内容
+2020-07-25 20:19:57,873 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html 的详情内容开始填充item
+2020-07-25 20:19:57,874 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html 的详情内容item即将提交
+2020-07-25 20:19:57,877 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html 的详情内容
+2020-07-25 20:19:57,877 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html 的详情内容开始填充item
+2020-07-25 20:19:57,878 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html 的详情内容item即将提交
+2020-07-25 20:19:57,947 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html 的详情内容
+2020-07-25 20:19:57,947 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html 的详情内容开始填充item
+2020-07-25 20:19:57,948 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html 的详情内容item即将提交
+2020-07-25 20:19:58,048 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html 的详情内容
+2020-07-25 20:19:58,048 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html 的详情内容开始填充item
+2020-07-25 20:19:58,048 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html 的详情内容item即将提交
+2020-07-25 20:19:58,054 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html 的详情内容
+2020-07-25 20:19:58,054 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html 的详情内容开始填充item
+2020-07-25 20:19:58,054 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html 的详情内容item即将提交
+2020-07-25 20:19:58,058 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html 的详情内容
+2020-07-25 20:19:58,058 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html 的详情内容开始填充item
+2020-07-25 20:19:58,058 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html 的详情内容item即将提交
+2020-07-25 20:19:58,060 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html 的详情内容
+2020-07-25 20:19:58,061 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html 的详情内容开始填充item
+2020-07-25 20:19:58,061 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html 的详情内容item即将提交
+2020-07-25 20:19:58,064 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html 的详情内容
+2020-07-25 20:19:58,064 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html 的详情内容开始填充item
+2020-07-25 20:19:58,065 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html 的详情内容item即将提交
+2020-07-25 20:19:58,067 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html 的详情内容
+2020-07-25 20:19:58,067 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html 的详情内容开始填充item
+2020-07-25 20:19:58,067 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html 的详情内容item即将提交
+2020-07-25 20:19:58,070 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html 的详情内容
+2020-07-25 20:19:58,070 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html 的详情内容开始填充item
+2020-07-25 20:19:58,070 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html 的详情内容item即将提交
+2020-07-25 20:19:58,148 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html 的详情内容
+2020-07-25 20:19:58,148 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html 的详情内容开始填充item
+2020-07-25 20:19:58,148 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html 的详情内容item即将提交
+2020-07-25 20:19:58,262 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html 的详情内容
+2020-07-25 20:19:58,263 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html 的详情内容开始填充item
+2020-07-25 20:19:58,263 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html 的详情内容item即将提交
+2020-07-25 20:19:58,268 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html 的详情内容
+2020-07-25 20:19:58,269 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html 的详情内容开始填充item
+2020-07-25 20:19:58,269 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html 的详情内容item即将提交
+2020-07-25 20:19:58,272 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html 的详情内容
+2020-07-25 20:19:58,272 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html 的详情内容开始填充item
+2020-07-25 20:19:58,272 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html 的详情内容item即将提交
+2020-07-25 20:19:58,274 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html 的详情内容
+2020-07-25 20:19:58,274 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html 的详情内容开始填充item
+2020-07-25 20:19:58,275 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html 的详情内容item即将提交
+2020-07-25 20:19:58,277 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html 的详情内容
+2020-07-25 20:19:58,277 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html 的详情内容开始填充item
+2020-07-25 20:19:58,277 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261853.html 的详情内容item即将提交
+2020-07-25 20:19:58,288 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html 的详情内容
+2020-07-25 20:19:58,288 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html 的详情内容开始填充item
+2020-07-25 20:19:58,289 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261876.html 的详情内容item即将提交
+2020-07-25 20:19:58,316 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html 的详情内容
+2020-07-25 20:19:58,316 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html 的详情内容开始填充item
+2020-07-25 20:19:58,317 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261883.html 的详情内容item即将提交
+2020-07-25 20:19:58,370 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html 的详情内容
+2020-07-25 20:19:58,370 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html 的详情内容开始填充item
+2020-07-25 20:19:58,370 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261875.html 的详情内容item即将提交
+2020-07-25 20:19:58,452 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html 的详情内容
+2020-07-25 20:19:58,452 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html 的详情内容开始填充item
+2020-07-25 20:19:58,453 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261854.html 的详情内容item即将提交
+2020-07-25 20:19:58,460 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html 的详情内容
+2020-07-25 20:19:58,460 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html 的详情内容开始填充item
+2020-07-25 20:19:58,460 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261874.html 的详情内容item即将提交
+2020-07-25 20:19:58,463 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html 的详情内容
+2020-07-25 20:19:58,463 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html 的详情内容开始填充item
+2020-07-25 20:19:58,463 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261866.html 的详情内容item即将提交
+2020-07-25 20:19:58,477 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html 的详情内容
+2020-07-25 20:19:58,477 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html 的详情内容开始填充item
+2020-07-25 20:19:58,478 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261871.html 的详情内容item即将提交
+2020-07-25 20:19:58,481 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html 的详情内容
+2020-07-25 20:19:58,481 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html 的详情内容开始填充item
+2020-07-25 20:19:58,481 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261872.html 的详情内容item即将提交
+2020-07-25 20:19:58,506 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html 的详情内容
+2020-07-25 20:19:58,506 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html 的详情内容开始填充item
+2020-07-25 20:19:58,506 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261855.html 的详情内容item即将提交
+2020-07-25 20:19:58,562 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html 的详情内容
+2020-07-25 20:19:58,562 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html 的详情内容开始填充item
+2020-07-25 20:19:58,563 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261870.html 的详情内容item即将提交
+2020-07-25 20:19:58,577 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html 的详情内容
+2020-07-25 20:19:58,577 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html 的详情内容开始填充item
+2020-07-25 20:19:58,578 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261857.html 的详情内容item即将提交
+2020-07-25 20:19:58,657 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html 的详情内容
+2020-07-25 20:19:58,658 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html 的详情内容开始填充item
+2020-07-25 20:19:58,658 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261945.html 的详情内容item即将提交
+2020-07-25 20:19:58,666 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html 的详情内容
+2020-07-25 20:19:58,666 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html 的详情内容开始填充item
+2020-07-25 20:19:58,666 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261901.html 的详情内容item即将提交
+2020-07-25 20:19:58,669 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html 的详情内容
+2020-07-25 20:19:58,669 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html 的详情内容开始填充item
+2020-07-25 20:19:58,669 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261947.html 的详情内容item即将提交
+2020-07-25 20:19:58,672 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html 的详情内容
+2020-07-25 20:19:58,672 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html 的详情内容开始填充item
+2020-07-25 20:19:58,672 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261948.html 的详情内容item即将提交
+2020-07-25 20:19:58,674 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html 的详情内容
+2020-07-25 20:19:58,674 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html 的详情内容开始填充item
+2020-07-25 20:19:58,675 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词市级信息公告在第1页，网页：http://www.ccgp-beijing.gov.cn/xxgg/sjzfcggg/t20200724_1261859.html 的详情内容item即将提交
+2020-07-25 20:19:58,677 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html 的详情内容
+2020-07-25 20:19:58,677 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html 的详情内容开始填充item
+2020-07-25 20:19:58,677 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261946.html 的详情内容item即将提交
+2020-07-25 20:19:58,757 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html 的详情内容
+2020-07-25 20:19:58,757 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html 的详情内容开始填充item
+2020-07-25 20:19:58,758 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261953.html 的详情内容item即将提交
+2020-07-25 20:19:58,760 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html 的详情内容
+2020-07-25 20:19:58,760 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html 的详情内容开始填充item
+2020-07-25 20:19:58,761 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261954.html 的详情内容item即将提交
+2020-07-25 20:19:58,854 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html 的详情内容
+2020-07-25 20:19:58,854 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html 的详情内容开始填充item
+2020-07-25 20:19:58,854 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261958.html 的详情内容item即将提交
+2020-07-25 20:19:58,860 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html 的详情内容
+2020-07-25 20:19:58,860 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html 的详情内容开始填充item
+2020-07-25 20:19:58,860 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/qjzbgg/t20200724_1261962.html 的详情内容item即将提交
+2020-07-25 20:19:58,862 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html 的详情内容
+2020-07-25 20:19:58,862 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html 的详情内容开始填充item
+2020-07-25 20:19:58,862 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261961.html 的详情内容item即将提交
+2020-07-25 20:19:58,868 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html 的详情内容
+2020-07-25 20:19:58,868 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html 的详情内容开始填充item
+2020-07-25 20:19:58,868 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261960.html 的详情内容item即将提交
+2020-07-25 20:19:58,870 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html 的详情内容
+2020-07-25 20:19:58,870 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html 的详情内容开始填充item
+2020-07-25 20:19:58,870 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261963.html 的详情内容item即将提交
+2020-07-25 20:19:58,871 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html 的详情内容
+2020-07-25 20:19:58,871 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html 的详情内容开始填充item
+2020-07-25 20:19:58,872 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261952.html 的详情内容item即将提交
+2020-07-25 20:19:58,958 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html 的详情内容
+2020-07-25 20:19:58,958 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html 的详情内容开始填充item
+2020-07-25 20:19:58,958 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261964.html 的详情内容item即将提交
+2020-07-25 20:19:58,961 - get_content  - 210  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，开始抽取网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html 的详情内容
+2020-07-25 20:19:58,961 - get_content  - 211  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html 的详情内容开始填充item
+2020-07-25 20:19:58,961 - get_content  - 225  - INFO - 【bidding_jszfcg】关键词区级信息公告在第2页，网页：http://www.ccgp-beijing.gov.cn/xxgg/qjzfcggg/t20200724_1261965.html 的详情内容item即将提交
